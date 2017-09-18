@@ -1,0 +1,23 @@
+{
+  "name": "mediumtictactoe",
+  "version": "1.0.0",
+  "description": "tictactoe commandline interface",
+  "main": "TicTacToe.js",
+  "dependencies": {
+    "commander": "^2.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmikeal/mediumCLTicTacToe.git"
+  },
+  "author": "Michael Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmikeal/mediumCLTicTacToe/issues"
+  },
+  "homepage": "https://github.com/mmmikeal/mediumCLTicTacToe#readme"
+}
